@@ -256,6 +256,16 @@ body {
 }
 
 
+
+.final-question-photo {
+    width: min(100%, 320px);
+    display: block;
+    margin: 0.75rem auto 1rem;
+    border-radius: 14px;
+    border: 3px solid rgba(255, 255, 255, 0.95);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+    object-fit: cover;
+}
 .cute-cat-image {
     width: min(50%, 140px);
     border-radius: 16px;
